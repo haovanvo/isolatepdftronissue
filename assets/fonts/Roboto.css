@@ -1,0 +1,70 @@
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Roboto Light'), url(../../../fonts/RobotoLight.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Light'), url(../../../fonts/RobotoLight.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Roboto'), url(../../../fonts/Roboto.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto'), url(../../../fonts/Roboto.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Roboto Medium'), url(../../../fonts/RobotoMedium.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Medium'), url(../../../fonts/RobotoMedium.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Roboto Bold'), url(../../../fonts/RobotoBold.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Bold'), url(../../../fonts/RobotoBold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Roboto Black'), url(../../../fonts/RobotoBlack.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Black'), url(../../../fonts/RobotoBlack.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 300;
+	src: local('Roboto Light Italic'), url(../../../fonts/RobotoLightItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Light Italic'), url(../../../fonts/RobotoLightItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Roboto Italic'), url(../../../fonts/RobotoItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Italic'), url(../../../fonts/RobotoItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 500;
+	src: local('Roboto Medium Italic'), url(../../../fonts/RobotoMediumItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Medium Italic'), url(../../../fonts/RobotoMediumItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Roboto Bold Italic'), url(../../../fonts/RobotoBoldItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Bold Italic'), url(../../../fonts/RobotoBoldItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Roboto';
+	font-style: italic;
+	font-weight: 900;
+	src: local('Roboto Black Italic'), url(../../../fonts/RobotoBlackItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Roboto Black Italic'), url(../../../fonts/RobotoBlackItalic.ttf) format( 'truetype');
+}

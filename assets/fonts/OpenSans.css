@@ -1,0 +1,63 @@
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Open Sans Light'), url(../../../fonts/OpenSansLight.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Light'), url(../../../fonts/OpenSansLight.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Open Sans'), url(../../../fonts/OpenSans.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans'), url(../../../fonts/OpenSans.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Open Sans Semibold'), url(../../../fonts/OpenSansSemibold.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Semibold'), url(../../../fonts/OpenSansSemibold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), url(../../../fonts/OpenSansBold.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Bold'), url(../../../fonts/OpenSansBold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Open Sans Extrabold'), url(../../../fonts/OpenSansExtrabold.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Extrabold'), url(../../../fonts/OpenSansExtrabold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 300;
+	src: local('Open Sans Light Italic'), url(../../../fonts/OpenSansLightItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Light Italic'), url(../../../fonts/OpenSansLightItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Open Sans Italic'), url(../../../fonts/OpenSansItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Italic'), url(../../../fonts/OpenSansItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Open Sans Bold Italic'), url(../../../fonts/OpenSansBoldItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Bold Italic'), url(../../../fonts/OpenSansBoldItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 800;
+	src: local('Open Sans Extrabold Italic'), url(../../../fonts/OpenSansExtraboldItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Open Sans Extrabold Italic'), url(../../../fonts/OpenSansExtraboldItalic.ttf) format( 'truetype');
+}

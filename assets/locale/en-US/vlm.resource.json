@@ -1,0 +1,1017 @@
+[
+    {
+        "resKey": "vlm_prompt_load_virtual_bookmark",
+        "resValue": "File name: {0}\r\n\r\nThis document contains virtual bookmarks.\r\nDo you want to load virtual bookmarks?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_prompt_reconvert_virtual_bookmark",
+        "resValue": "File Name: {0}\r\nThis document contains virtual bookmarks but the total is different with the total of the current bookmark tree.\r\nDo you want to convert and overwrite the existing virtual bookmarks?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_migrate_hyperlinkbookmark_ectd",
+        "resValue": "During migration process, the destination information of external links and bookmarks will also get corrected\r\nif there are version updated or life cycled destination leaves in the submission.\r\nPlease make sure that the bind versions of all participating leaves have been properly updated before migration.\r\n\r\nDo you still want to proceed?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_migrate_hyperlinkbookmark_pub",
+        "resValue": "During migration process, the destination information of external links and bookmarks will also get corrected\r\nif there are version updated or life cycled destination leaves in the submission.\r\nPlease make sure that the bind versions of all participating leaves have been properly updated before migration.\r\n\r\nDo you still want to proceed?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_preserve_original_type",
+        "resValue": "You have attempted to migrate all links to type Generic, but your privilege has since been revoked to create new generic virtual links. \nAs a result, your auto-migrate preferences have been updated to 'Preserve Original Type'. Proceed with migration?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_autoMigrate_succeedded",
+        "resValue": "Automatic migration completed successfully.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_migrate_failed",
+        "resValue": "Automatic migration failed.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_migrate_not_have_any_virtual",
+        "resValue": "Migration was unsuccessful because there are no bookmarks/links/Annotations to migrate.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_migrate_source_can_not_be_recognized",
+        "resValue": "The source document cannot be recognized.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_after_convert_ask_loadvb",
+        "resValue": "Acrobat bookmarks have been converted to Virtual. Would you like to view/load them?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_bookmark_is_locked",
+        "resValue": "Bookmark is locked. Can't continue convert bookmark process.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_prompt_convert_virtual_bookmark",
+        "resValue": "File Name: {0}\r\nThe bookmarks of this file will be converted to virtual bookmarks.\r\nDo you want to continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_using_actual_bookmark",
+        "resValue": "From now on, all new bookmarks will be generated as acrobat bookmarks.\r\nAnd all virtual bookmark tools will be disabled.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_no_bookmarks_to_convert",
+        "resValue": "\r\nThere are no Acrobat bookmarks to convert.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_no_previous_version",
+        "resValue": "There is no previous version for this document.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_convert_bookmarks_failed",
+        "resValue": "Bookmark convert process failed.\r\n",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_convert_bookmarks_success",
+        "resValue": "All bookmarks are converted to virtual bookmarks.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_prompt_load_virtual_hyperlink",
+        "resValue": "This document contains virtual hyperlinks.\r\nDo you want to load virtual hyperlinks?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_save_bookmark",
+        "resValue": "Your changes to bookmarks may be lost.\r\nDo you want to save bookmarks now?\r\n\r\n  [Yes] Save bookmark changes\r\n  [No]  Discard bookmark changes",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_start_bookmark_editing",
+        "resValue": "Start Bookmark Editing",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_stop_bookmark_editing",
+        "resValue": "Stop Bookmark Editing",
+        "resDesc": ""
+    },
+    {
+        "resKey": "named_destination_not_exist",
+        "resValue": "Named destinations do not exist in this document.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_titles",
+        "resValue": "Bookmark Titles",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_properties",
+        "resValue": "Bookmark Properties",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_editor_named_destination",
+        "resValue": "Bookmark Editor - Named Destination",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_editor_action_history",
+        "resValue": "Bookmark Editor - Action History",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_editor",
+        "resValue": "Bookmark Editor",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_no_bookmarks_to_create",
+        "resValue": "There is no information to create bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_browse_ectd",
+        "resValue": "Browse eCTD Tree",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_start_leaf_selection_mode_external",
+        "resValue": "Now link/bookmark target leaf can be selected from Application Explorer with these conditions:\n\r- Single leaf selection (use double-click)\n\r- PDF format only\n\r- Any leaf status",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_start_leaf_selection_mode_open",
+        "resValue": "Now link/bookmark target leaf can be selected from Application Explorer with these conditions:\n\r- Single leaf selection (use double-click)\n\r- Any file type\n\r- Any leaf status",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_havenot_write_privilege",
+        "resValue": "You do not have write privileges to use the tool.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_notify_havenot_readwrite_privilege",
+        "resValue": "You do not have read/write privileges to use the tool.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_save_bookmark_success",
+        "resValue": "Saved bookmarks successfully",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_save_bookmark_fail",
+        "resValue": "Fail saving bookmarks",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_delete_annotations_confirm",
+        "resValue": "All unlocked virtual annotations created by the current user \"{0}\" will be deleted from the document and database, and undeleted ones will be saved immediately.\r\n\r\nAre you sure to delete the virtual annotations?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_stop_annotations_editing_confirm",
+        "resValue": "If you have changed any virtual annotation, please save it before stopping annotation edit mode. Otherwise, your changes will be lost.\r\n\r\nDo you still want to stop annotation edit?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_not_edit_anno_privileges_msg",
+        "resValue": "You don't have the privileges to edit the virtual annotation.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_not_write_anno_privileges_msg",
+        "resValue": "You don't have the privileges to delete the virtual annotation.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_not_set_virtual_actual_options",
+        "resValue": "Please set any or all of the virtual/actual options before starting the process.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_before_delete_bookmark",
+        "resValue": "Are you sure you want to delete the selected bookmark?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_before_delete_bookmarks",
+        "resValue": "Are you sure you want to delete all bookmarks?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_before_save_bookmark",
+        "resValue": "Virtual bookmarks have been changed. Do you want to save your changes?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_value_not_found_in_title",
+        "resValue": "could not be found within the Title/Text.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_toc_bookmarks_links",
+        "resValue": "TOC Bookmarks & Links",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmarks_links_auditor",
+        "resValue": "Bookmark & Link Auditor",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_please_specify_url",
+        "resValue": "Please specify the destination file path or URL.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "select-leaf-non-pdf",
+        "resValue": "The following error(s) occurred while selecting leaf files:\n\r- 1 leaf file(s) in non-PDF format.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "no-leaf-select-valid",
+        "resValue": "No leaf selection was valid. Please try again.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_select_version_not_have_any_virtual",
+        "resValue": "Selected version of document not have any virtual bookmark/hyperlink.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_select_version_not_have_any_bookmarks",
+        "resValue": "There are no bookmarks to migrate from the selected version of document. Only other external bookmarks will be updated.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_select_version_not_have_any_links",
+        "resValue": "There are no links to migrate from the selected version of document. Only other external links will be updated.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_named_destination",
+        "resValue": "Named Destination",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_keyword_linker",
+        "resValue": "Keyword Linker",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_keyword_linker_bookmarks",
+        "resValue": "Keyword Linker - Bookmarks",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_text_quick_linker_bookmarks",
+        "resValue": "Text Quick Linker - Bookmarks",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_keyword_linker_action_history",
+        "resValue": "Keyword Linker - Action History",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_keyword_linker_link_properties",
+        "resValue": "Keyword Linker - Properties",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_text_quick_linker_link_properties",
+        "resValue": "Text Quick Linker - Properties",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_keyword_linker_margins",
+        "resValue": "Keyword Linker - Margins",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_text_quick_linker_margins",
+        "resValue": "Text Quick Linker - Margins",
+        "resDesc": ""
+    },
+    {
+        "resKey": "offset_is_big_value",
+        "resValue": "The value is bigger than 1 inch(smaller than -1 inch).\n\rDo you want continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "value_is_invalid",
+        "resValue": "The value is invalid.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "document_has_signatures",
+        "resValue": "This document contains digital signatures. Please be aware that reconciling virtual bookmarks or hyperlinks on this document will register as a change which may invalidate or otherwise effect the digital signature.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_text_required",
+        "resValue": "Please specify the bookmark title.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_enable_change_action_magopenin",
+        "resValue": "The selected item has the Named destination.\n\rPlease select both 'Change Action' And 'Change Magnification/Open in'\n\rtab to edit Named destination item.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "number_item_action_history_invalid",
+        "resValue": "Invalid value for action history item count.\nThe minimum value is 5.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_not_converted_document_list",
+        "resValue": "Not Converted Document List",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_editor_missing_title",
+        "resValue": "Please specify the bookmark title.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_editor_missing_destination_file",
+        "resValue": "Please specify the destination file path or URL.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_editor_invalid_page_number",
+        "resValue": "The page number or range is invalid.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_editor_missing_named_destination",
+        "resValue": "Please specify the named destination.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_editor_invalid_destination_file",
+        "resValue": "Failed to get the information from the destination file.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_bookmarks_already_exist_confirm_append_bookmarks_message",
+        "resValue": "Migrated bookmark(s) already exists in the selected version.\nIf you click 'Yes', migrated bookmark(s) will be appended.\nDo you want to continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_bookmarks_already_exist_confirm_message",
+        "resValue": "Migrated bookmark(s) already exists in the selected version.\nDo you want to continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_links_already_exist_confirm_message",
+        "resValue": "Migrated link(s) already exists in the selected version. Do you want to continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_failed",
+        "resValue": "Failed to migration",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_failed_bookmark",
+        "resValue": "Failed to migrate bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_failed_link",
+        "resValue": "Failed to migrate link.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_failed_link_db_error",
+        "resValue": "Failed to migrate - DB access error.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_Process_ECTDXPRESS",
+        "resValue": "During migration process, the destination information of external links and bookmarks will also get corrected\r\nif there are version updated or life cycled destination leaves in the submission.\r\nPlease make sure that the bind versions of all participating leaves have been properly updated before migration.\r\n\r\nDo you still want to proceed?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_Process_ISI_PUBLISHER",
+        "resValue": "During migration process, the destination information of external links and bookmarks will also get corrected\r\nif there are version updated destination nodes in the publication.\r\nPlease make sure that the bind versions of all participating nodes have been properly updated before migration.\r\n\r\nDo you still want to proceed?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "migrate_process_aborted",
+        "resValue": "Migrate process aborted!",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_migrate_succeedded",
+        "resValue": "Migration completed successfully.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_management_reload",
+        "resValue": "If you reload the virtual bookmark tree, you will lose unsaved changes. Would you still like to proceed with reload?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_management_delete_all",
+        "resValue": "All {groupName} bookmarks tree will be deleted from database. Do you want to continue?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_management_convert_to_virtual",
+        "resValue": "This will be deleted all virtual-generic bookmarks before converting. Do you want to proceed?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_font_properties",
+        "resValue": "Font Properties",
+        "resDesc": ""
+    },
+    {
+        "resKey": "bookmark_by_font_empty",
+        "resValue": "The font information of Level {0} is empty.\n\rPlease select a specific font information.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "bookmark_by_keyword_empty",
+        "resValue": "The keyword of Level {0} is empty.\n\rPlease enter specific keyword(s).",
+        "resDesc": ""
+    },
+    {
+        "resKey": "bookmark_by_area_empty",
+        "resValue": "The area information of Level {0} is empty.\n\rPlease select a specific area.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "page_number_range_invalid",
+        "resValue": "The page number or range is invalid.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_selected_item_required",
+        "resValue": "Please select at least one bookmark or link.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_audit_checkedbox_required",
+        "resValue": "Please check any of the 'Audit' check boxes before starting the process.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_named_bookmarks_links_auditor_edit",
+        "resValue": "Bookmarks & Links Auditor - Edit",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_named_bookmarks_links_auditor",
+        "resValue": "Bookmarks & Links Auditor",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_audit_result_abort",
+        "resValue": "The process has been aborted.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_audit_result_not_sucess",
+        "resValue": "Error",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_edit_select_row_required",
+        "resValue": "Please select at least one bookmark or link.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_edit_doc_locked_msg",
+        "resValue": "Current document are locked. and could not be modified.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_audit_edit_do_not_write_privileges",
+        "resValue": "You do not have write privileges to use the tool.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_destfile_not_exist",
+        "resValue": "The destination file does not exist.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_filepath_cannot_open",
+        "resValue": "An error occurred while retrieving the destination file",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_required",
+        "resValue": "Please select an 'Action' item.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_filename_URL_required",
+        "resValue": "Please specify the destination file path and name/URL.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_pagenum_required",
+        "resValue": "Please select an 'Action' item and specify a page number.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_filepath_required",
+        "resValue": "Please specify the destination file path and name.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "destination_cannot_open",
+        "resValue": "The destination document cannot be opened.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_invalid_destpage",
+        "resValue": "Invalid page number. Destination page number is invalid",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_edit_link_bookmark_auditor_action_nagative_destpage",
+        "resValue": "The destination page cannot be 0 or less than 0.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_invalid_document",
+        "resValue": "The source document cannot be recognized.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_process_stop",
+        "resValue": "The process has been aborted.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_no_keyword_found",
+        "resValue": "There is no specified keyword in this document.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_page_number_invalid",
+        "resValue": "The page number is invalid.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_application_info_invalid",
+        "resValue": "Application information cannot be found.Do you want to create generic virtual link(s)?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_document_protected",
+        "resValue": "The PDF document is write protected and cannot be modified.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_no_entry",
+        "resValue": "There were no entries found in the Keyword List.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_process_aborted",
+        "resValue": "The process has been aborted.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_keyword_linker_delete_all",
+        "resValue": "Are you sure you want to delete all items in the 'Keyword List'?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_migrate_page_error",
+        "resValue": "Page {0} is invalid.\nDo you want to continue the process?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_document_not_in_current_submission",
+        "resValue": "This document is not in the current submission.\n\rIn order to add virtual navigation, please add the document to the current outline or open it directly in VLM Standalone.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_convert_virtual_bookmark_some_bks_already_exist",
+        "resValue": "Note that you are attempting to convert bookmarks, but some bookmarks already exist in this tree.\r\nIf you proceed, you will overwrite these bookmarks.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_switching_tab_confirm_close_all_dialog",
+        "resValue": "Note that you are attempting to switch to another tab, but some dialogs in previous tab still opening.\r\nIf you proceed, all dialog will be close.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_close_tab_confirm_close_all_dialog",
+        "resValue": "Note that you are attempting to close current tab, but some dialogs in tab still opening.\r\nIf you proceed, all dialog will be close.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_toc_bookmark_link_invalid_offset_value",
+        "resValue": "Please specify an integer for the offset value.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_toc_bookmark_link_specify_font_information",
+        "resValue": "Please specify the font information to determine the bookmark levels.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_toc_bookmark_link_select_area_null",
+        "resValue": "Please click the 'Select Area' button to capture the desired text.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_document_protected_cannot_extracted",
+        "resValue": "The PDF document is protected and text/graphics cannot be extracted.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_document_protected_cannot_printed",
+        "resValue": "The PDF document is protected and cannot be printed.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_auto_migrate_generic_link_with_confirm",
+        "resValue": "You have attempted to migrate all links to type Generic, if there are version updated or lifecycled destination leaves in the submission. but your privilege has since been revoked to create new generic virtual links. \nAs a result, your auto-migrate preferences have been updated to Preserve Original Type. Proceed with migration?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "keyword_linker_removed_items",
+        "resValue": "Removed item(s) :",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_word_exists_in_exclude_list",
+        "resValue": "'{0}' already exists in this exclude list. Please enter a new word.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_generator_configuration_file_invalid",
+        "resValue": "The configuration file '{0}' is not for Bookmark Generator.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_generator_export_configuration_file_failed",
+        "resValue": "Failed to export the configuration file.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_generator_load_configuration_file_failed",
+        "resValue": "Failed to load the configuration file.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "invalid_csv_file_format",
+        "resValue": "Importing CSV file has invalid format.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_generator",
+        "resValue": "Bookmark Generator",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_generator_destination_editor",
+        "resValue": "Bookmark Generator - Destination Editor",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_invalid_destination_file",
+        "resValue": "An error occurred while retrieving the destination file.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_bookmark_generator_named_destination",
+        "resValue": "Bookmark Generator - Named Destination",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_missing_title",
+        "resValue": "Please enter the specific bookmark title.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_dest_file_path_required",
+        "resValue": "Please specify the destination file path or URL.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_pdf_dest_file_path_required",
+        "resValue": "Please specify the destination PDF file path and name.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_dest_file_not_existing",
+        "resValue": "The destination file does not exist.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_invalid_dest_page_number",
+        "resValue": "The page number is invalid.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_named_destination_required",
+        "resValue": "Please specify the named destination.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_named_destination_not_exist",
+        "resValue": "Named destination {0} does not exist.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_no_named_destination",
+        "resValue": "There is no named destination in the current file.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destination_editor_bookmark_not_selected",
+        "resValue": "Please select the bookmark to modify.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_link_tool_edit",
+        "resValue": "Edit Link",
+        "resDesc": ""
+    },
+    {
+        "resKey": "dlg_name_link_tool_create",
+        "resValue": "Create Link",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_please_specify_path_name",
+        "resValue": "Please specify the destination file path and name.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_please_specify_destination_url",
+        "resValue": "Please specify the destination URL.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_please_specify_bookmark",
+        "resValue": "Please specify the bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_link_tool_bookmark",
+        "resValue": "Link Tool - Bookmarks",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_dialog_name_action_history",
+        "resValue": "Action History",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destinaion_editor_modify_bookmark_fail",
+        "resValue": "Failed to modify the selected bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destinaion_editor_add_bookmark_fail",
+        "resValue": "Failed to add bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_dialog_name_link_management",
+        "resValue": "Link Management",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_cannot_use_bookmark_locked",
+        "resValue": "Can't use plugin because this document's virtual bookmark locked.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_error_while_update_link",
+        "resValue": "An error occurred while updating the link information.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_process_has_been_aborted",
+        "resValue": "The process has been aborted.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_cannot_change_to_specific_link",
+        "resValue": "Page: {0}, Link: '{1}'\r\n\r\nCannot change to submission specific link \r\nbecause the destination file doesn't exist in this Application.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_could_not_recognize_source_doc",
+        "resValue": "Could not recognize source document.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_delete_link_from_list",
+        "resValue": "Are you sure of deleting links that are checked from the list?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_error_while_delete_link",
+        "resValue": "An error occurred while deleting the link.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_link_management_properties",
+        "resValue": "Link Management - Properties",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_cannot_modify_action_properties_named_dest_links",
+        "resValue": "Cannot modify action properties of Named destination links.\nThe action properties of Named destination links are not modified.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_font_infomation_highlight_word",
+        "resValue": "Please highlight an entire word using 'Text Select Tool'.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_saved_annotations_success",
+        "resValue": "Saved the virtual annotations successfully.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_link_management_no_virtual_links",
+        "resValue": "There are no virtual links in this document.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_link_management_no_virtual_links_found",
+        "resValue": "No virtual links found in the document with keyword '{0}'.",
+        "resDesc": ""
+    },
+  {
+    "resKey": "vlm_link_tool",
+    "resValue": "Link Tool",
+    "resDesc": ""
+  },
+  {
+    "resKey": "vlm_text_quick_linker",
+    "resValue": "Text Quick Linker",
+    "resDesc": ""
+  },
+  {
+    "resKey": "vlm_confirm_delete_selected_link",
+    "resValue": "Are you sure you want to delete the selected link?",
+    "resDesc": ""
+  },
+    {
+        "resKey": "vlm_link_tool",
+        "resValue": "Link Tool",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_confirm_delete_selected_link",
+        "resValue": "Are you sure you want to delete the selected link?",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destinaion_editor_delete_bookmark_fail",
+        "resValue": "Failed to delete bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_destinaion_editor_create_bookmark_fail",
+        "resValue": "Failed to create bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_benerator_create_bookmark_fail",
+        "resValue": "Failed to create bookmark.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_benerator_create_bookmark_exception",
+        "resValue": "There is exception while creating bookmark(s). Please contact system administrator.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_annotation_take_ownership_not_have_privilege",
+        "resValue": "You don't have the privileges to take ownership.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_annotation_can_not_take_ownership_on_compiled_finalized",
+        "resValue": "You can not change the ownership of the annotations because this document is compiled or finalized.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_annotation_take_ownership_no_data",
+        "resValue": "There is no annotation data to take ownership.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_benerator_create_bookmark_succeed",
+        "resValue": "Bookmark(s) created successfully.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_bookmark_benerator_add_font_text_selection_warning",
+        "resValue": "Please highlight an entire word using Acrobat's 'Text Select Tool'.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_view_link_bookmark_history",
+        "resValue": "View Links & Bookmarks History",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_view_history",
+        "resValue": "View History",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_no_history_data",
+        "resValue": "No history data.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_could_not_write_access_failure",
+        "resValue": "Could not write information due to file access failure.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_group_name_generic",
+        "resValue": "Generic",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_group_name_specific",
+        "resValue": "Specific",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_start_leaf_multi_selection_mode_external",
+        "resValue": "Now link/bookmark target leaf can be selected from Application Explorer with these conditions:\n\r- Multi-selection enabled (use ctr+click and right-click)\n\r- PDF format only\n\r- Unclocked leaf only",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_start_leaf_multi_selection_mode_open",
+        "resValue": "Now link/bookmark target leaf can be selected from Application Explorer with these conditions:\n\r- Multi-selection enabled (use ctr+click and right-click)\n\r- Any file type\n\r- Unclocked leaf only",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_some_document_states_modified",
+        "resValue": "Some of document states have been modified.\r\nPlease close and open the affected documents agaain if they have been opened.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_document_state_manager",
+        "resValue": "Document State Manager",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_export_import_bookmark_link",
+        "resValue": "Export/Import Bookmarks & Links",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_processing_successfully",
+        "resValue": "Processing finished successfully.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_import_total_link",
+        "resValue": "Total count of imported link is {0}.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_import_total_bookmark",
+        "resValue": "Total count of imported bookmark is {0}.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_export_total_link",
+        "resValue": "Total count of exported hyperlink is {0}.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_export_total_bookmark",
+        "resValue": "Total count of exported bookmark is {0}.",
+        "resDesc": ""
+    },
+    {
+        "resKey": "vlm_convert_to_virtual_link_in_progress",
+        "resValue": "Converting Acrobat links for page {0} of {1}",
+        "resDesc": ""
+    }
+]

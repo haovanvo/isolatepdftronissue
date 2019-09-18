@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'mplus-1p-thin';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Mplus 1p Thin'), url(../../../fonts/Mplus1pThin.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Thin'), url(../../../fonts/Mplus1pThin.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-light';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Mplus 1p Light'), url(../../../fonts/Mplus1pLight.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Light'), url(../../../fonts/Mplus1pLight.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-regular';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Mplus 1p Regular'), url(../../../fonts/Mplus1pRegular.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Regular'), url(../../../fonts/Mplus1pRegular.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-medium';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Mplus 1p Medium'), url(../../../fonts/Mplus1pMedium.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Medium'), url(../../../fonts/Mplus1pMedium.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-bold';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Mplus 1p Bold'), url(../../../fonts/Mplus1pBold.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Bold'), url(../../../fonts/Mplus1pBold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-heavy';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Mplus 1p Heavy'), url(../../../fonts/Mplus1pHeavy.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Heavy'), url(../../../fonts/Mplus1pHeavy.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'mplus-1p-black';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Mplus 1p Black'), url(../../../fonts/Mplus1pBlack.ttf.brotli ) format('brotli truetype');
+	src: local('Mplus 1p Black'), url(../../../fonts/Mplus1pBlack.ttf) format( 'truetype');
+}

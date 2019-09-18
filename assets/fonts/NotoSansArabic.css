@@ -1,0 +1,72 @@
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Noto Sans Arabic Black'), url(../../../fonts/NotoSansArabic-Black.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Black'), url(../../../fonts/NotoSansArabic-Black.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Black'), url(../../../fonts/NotoSansArabic-Black.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Noto Sans Arabic Bold'), url(../../../fonts/NotoSansArabic-Bold.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Bold'), url(../../../fonts/NotoSansArabic-Bold.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Bold'), url(../../../fonts/NotoSansArabic-Bold.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 800;
+	src: local('Noto Sans Arabic Heavy'), url(../../../fonts/NotoSansArabic-ExtraBold.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Heavy'), url(../../../fonts/NotoSansArabic-ExtraBold.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Heavy'), url(../../../fonts/NotoSansArabic-ExtraBold.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 200;
+	src: local('Noto Sans Arabic ExtraLight'), url(../../../fonts/NotoSansArabic-ExtraLight.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic ExtraLight'), url(../../../fonts/NotoSansArabic-ExtraLight.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic ExtraLight'), url(../../../fonts/NotoSansArabic-ExtraLight.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Noto Sans Arabic Light'), url(../../../fonts/NotoSansArabic-Light.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Light'), url(../../../fonts/NotoSansArabic-Light.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Light'), url(../../../fonts/NotoSansArabic-Light.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 550;
+	src: local('Noto Sans Arabic Medium'), url(../../../fonts/NotoSansArabic-Medium.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Medium'), url(../../../fonts/NotoSansArabic-Medium.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Medium'), url(../../../fonts/NotoSansArabic-Medium.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Noto Sans Arabic'), url(../../../fonts/NotoSansArabic-Regular.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic'), url(../../../fonts/NotoSansArabic-Regular.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic'), url(../../../fonts/NotoSansArabic-Regular.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Noto Sans Arabic SemiBold'), url(../../../fonts/NotoSansArabic-SemiBold.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic SemiBold'), url(../../../fonts/NotoSansArabic-SemiBold.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic SemiBold'), url(../../../fonts/NotoSansArabic-SemiBold.ttf) format('truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Arabic';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Noto Sans Arabic Thin'), url(../../../fonts/NotoSansArabic-Thin.ttf.brotli) format('brotli truetype');
+	src: local('Noto Sans Arabic Thin'), url(../../../fonts/NotoSansArabic-Thin.ttf.lzma) format('lzma truetype');
+	src: local('Noto Sans Arabic Thin'), url(../../../fonts/NotoSansArabic-Thin.ttf) format('truetype');
+}

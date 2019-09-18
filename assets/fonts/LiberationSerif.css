@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Liberation Serif';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Liberation Serif'), url(../../../fonts/LiberationSerif.ttf.brotli ) format('brotli truetype');
+	src: local('Liberation Serif'), url(../../../fonts/LiberationSerif.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Liberation Serif';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Liberation Serif Bold'), url(../../../fonts/LiberationSerifBold.ttf.brotli ) format('brotli truetype');
+	src: local('Liberation Serif Bold'), url(../../../fonts/LiberationSerifBold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Liberation Serif';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Liberation Serif Italic'), url(../../../fonts/LiberationSerifItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Liberation Serif Italic'), url(../../../fonts/LiberationSerifItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Liberation Serif';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Liberation Serif Bold Italic'), url(../../../fonts/LiberationSerifBoldItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Liberation Serif Bold Italic'), url(../../../fonts/LiberationSerifBoldItalic.ttf) format( 'truetype');
+}

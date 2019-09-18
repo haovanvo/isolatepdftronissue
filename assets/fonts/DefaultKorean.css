@@ -1,0 +1,43 @@
+@font-face {
+	unicode-range: U+20-7F,U+A0-C0,U+1100-1200,U+2010-2017,U+2018-201B,U+201C-201F,U+2020-2023,U+2025-2028,U+2030,U+2032-2034,U+203B,U+20AC,U+2103,U+2109,U+2113,U+2116,U+2121-2123,U+2126,U+212B,U+2160-216A,U+2170-217A,U+2190-219A,U+21D2,U+21D4,U+2200,U+2202-2204,U+2207-2209,U+220B,U+220F,U+2211,U+221A,U+221D-221F,U+2220,U+2225,U+2227-222D,U+222E,U+2234-2236,U+223D,U+2252,U+2260-2262,U+2264-2266,U+226A-226C,U+2282-2284,U+2286-2288,U+2299,U+22A5,U+2312,U+2460-246F,U+2474-2483,U+249C-24B6,U+24D0-24EA,U+2592,U+25A0-25A2,U+25A3-25AA,U+25B2-25B4,U+25B6-25B8,U+25BC-25BE,U+25C0-25C2,U+25C6-25C9,U+25CB,U+25CE-25D2,U+2605-2607,U+260E-2610,U+261C,U+261E,U+2640,U+2642,U+2660-2662,U+2663-2666,U+2667-266B,U+266C-266E,U+3000-3021,U+302E-3030,U+3131-318F,U+3200-321D,U+3260-3280,U+3380-3385,U+3388-33CB,U+33CF-33D1,U+33D3,U+33D6,U+33D8,U+33DB-33DE,U+A960-A97D,U+AC00-D7A4,U+D7B0-D7C7,U+D7CB-D7FC,U+FF01-FF5F,U+FFE0-FFE4,U+FFE5-FFE7;
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Noto Sans KR Thin'), url(../../../fonts/NotoSansKRThin.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Thin'), url(../../../fonts/NotoSansKRThin.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Noto Sans KR Light'), url(../../../fonts/NotoSansKRLight.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Light'), url(../../../fonts/NotoSansKRLight.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Noto Sans KR Regular'), url(../../../fonts/NotoSansKRRegular.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Regular'), url(../../../fonts/NotoSansKRRegular.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Noto Sans KR Medium'), url(../../../fonts/NotoSansKRMedium.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Medium'), url(../../../fonts/NotoSansKRMedium.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Noto Sans KR Bold'), url(../../../fonts/NotoSansKRBold.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Bold'), url(../../../fonts/NotoSansKRBold.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Noto Sans KR Black'), url(../../../fonts/NotoSansKRBlack.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans KR Black'), url(../../../fonts/NotoSansKRBlack.otf) format( 'truetype');
+}

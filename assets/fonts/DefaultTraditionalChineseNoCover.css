@@ -1,0 +1,42 @@
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 100;
+	src: local('Noto Sans TC Thin'), url(../../../fonts/NotoSansTCThin.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Thin'), url(../../../fonts/NotoSansTCThin.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Noto Sans TC Light'), url(../../../fonts/NotoSansTCLight.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Light'), url(../../../fonts/NotoSansTCLight.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Noto Sans TC Regular'), url(../../../fonts/NotoSansTCRegular.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Regular'), url(../../../fonts/NotoSansTCRegular.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 600;
+	src: local('Noto Sans TC Medium'), url(../../../fonts/NotoSansTCMedium.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Medium'), url(../../../fonts/NotoSansTCMedium.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Noto Sans TC Bold'), url(../../../fonts/NotoSansTCBold.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Bold'), url(../../../fonts/NotoSansTCBold.otf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans TC';
+	font-style: normal;
+	font-weight: 900;
+	src: local('Noto Sans TC Black'), url(../../../fonts/NotoSansTCBlack.otf.brotli ) format('brotli truetype');
+	src: local('Noto Sans TC Black'), url(../../../fonts/NotoSansTCBlack.otf) format( 'truetype');
+}

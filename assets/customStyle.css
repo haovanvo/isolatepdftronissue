@@ -1,0 +1,17 @@
+.vlm-icon {
+    background: url('/assets/icon/vlm-icon-24.png') no-repeat;
+    width:  24px;
+    height: 24px;
+    align-items: center;
+    margin: auto;
+}
+
+.vlm-icon:hover {
+    background: url('/assets/icon/vlm-icon-hover-24.png') no-repeat;
+    cursor: pointer;
+}
+
+.vlm-icon:active {
+    background: url('/assets/icon/vlm-icon-24.png') no-repeat;
+    cursor: pointer;
+}

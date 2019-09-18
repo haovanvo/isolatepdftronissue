@@ -1,0 +1,15 @@
+@font-face {
+	unicode-range: U+20,U+2D,U+A0,U+2BC,U+2D7,U+303,U+331,U+E01-E3B,U+E3F-E5C,U+200B-200E,U+2010,U+25CC;
+	font-family: 'Noto Sans Thai';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Noto Sans Thai'), url(../../../fonts/NotoSansThai.ttf.brotli ) format('brotli truetype');
+	src: local('Noto Sans Thai'), url(../../../fonts/NotoSansThai.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Noto Sans Thai';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Noto Sans Thai Bold'), url(../../../fonts/NotoSansThaiBold.ttf.brotli ) format('brotli truetype');
+	src: local('Noto Sans Thai Bold'), url(../../../fonts/NotoSansThaiBold.ttf) format( 'truetype');
+}

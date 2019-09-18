@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Tinos';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Tinos'), url(../../../fonts/Tinos.ttf.brotli ) format('brotli truetype');
+	src: local('Tinos'), url(../../../fonts/Tinos.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Tinos';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Tinos Bold'), url(../../../fonts/TinosBold.ttf.brotli ) format('brotli truetype');
+	src: local('Tinos Bold'), url(../../../fonts/TinosBold.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Tinos';
+	font-style: italic;
+	font-weight: 400;
+	src: local('Tinos Italic'), url(../../../fonts/TinosItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Tinos Italic'), url(../../../fonts/TinosItalic.ttf) format( 'truetype');
+}
+@font-face {
+	font-family: 'Tinos';
+	font-style: italic;
+	font-weight: 700;
+	src: local('Tinos Bold Italic'), url(../../../fonts/TinosBoldItalic.ttf.brotli ) format('brotli truetype');
+	src: local('Tinos Bold Italic'), url(../../../fonts/TinosBoldItalic.ttf) format( 'truetype');
+}
